@@ -1,3 +1,5 @@
+# NOTE: This is a work in progress at this time (3/4/18)
+
 # StudentdbAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
